@@ -1,0 +1,11 @@
+To install dependencies, run command the below:
+
+pip install -r requirements.txt
+
+==================================================
+To run the script, run the command below:
+
+python yellow_pages_parser.py
+
+==================================================
+Make sure to put any file you will be writing to or from into this folder
